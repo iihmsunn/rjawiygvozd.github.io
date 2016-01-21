@@ -1,0 +1,39 @@
+.panel p {
+	display: inline;
+}
+
+.pushkin {
+	position: fixed;
+	width: 200px;
+	height: 249px;
+	background-image: url(pushkin.png);
+}
+
+.bloodpool {
+	position: fixed;
+	width: 179px;
+	height: 179px;
+	background-image: url(bloodpool.png);
+}
+
+.gamecontent {
+	-webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.panel {
+	-webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+body {
+	background-color: #ffb5c6;
+}
